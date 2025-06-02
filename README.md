@@ -1,1 +1,1 @@
-My Sample Project
+Sample Project for SuperSet Instance with CI/CD
